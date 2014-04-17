@@ -1,0 +1,38 @@
+.clear-top {
+  margin-top: 60px;
+}
+
+h2.breakline {
+  text-align: center;
+  margin: 40px 0 45px 0;
+  background: url('/angelhack/img/line.gif') center repeat-x;
+}
+
+h2.breakline span {
+  background: white;
+  padding: 0 20px;
+}
+
+hr {
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #fafafa;
+}
+
+.teacherclass {
+  padding: 10px;
+  margin: 10px;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 30px;
+  color: inherit;
+  background-color: #EEE;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+.firstcharacter { float: left; font-size: 65px; line-height: 50px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
+
+ul.nav li {
+  text-align: right;
+}
